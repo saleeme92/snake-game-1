@@ -21,15 +21,11 @@ A browser-based Snake Game built with **React** and **JavaScript**, featuring a 
 
 ---
 
-## 📷 Screenshots
-*(Add images of your game here for better presentation)*  
-Example:  
-![Snake Game Screenshot](./screenshots/game.png)
-
----
-
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/saleeme92/snake-game-1.git
    cd snake-game-1
+npm install
+npm start
+
